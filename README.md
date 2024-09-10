@@ -1,1 +1,1 @@
-Live :https://github.com/roy-adrita/omnifood
+Live :https://roy-adrita.github.io/omnifood/
